@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marcginestet
-- 👀 I’m interested in Cities and Architecture
-- 🌱 I’m currently interesting in life cycle carbon emissions management for Buildings and Neighborhoods
--  💞️ I like to collaborate on computational solutions regarding ESG performances
+- 👀 I’m interested in management solutions of carbon emissions from Buildings and Neighborhoods throughout their life cycle
+- 🌱 I’m currently learning computational techniques to align design performances with ESG requirements
+- 💞️ I would like to collaborate on solutions related to above topics
 - 📫 Reach me by email m-dot-ginestet-at-qq-dot-com
 
 <!---
